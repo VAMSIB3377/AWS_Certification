@@ -1,0 +1,14 @@
+5_EC2_Auto_Scaling
+
+
+Scalability involves beginning with only the resources you need and designing your architecture to automatically respond to changing demand by scaling out or in.
+
+As a result, you pay for only the resources you use. You don’t have to worry about a lack of computing capacity to meet your customers’ needs.
+
+To Make the Process of Scaling Automatic We Have EC2 Auto Scaling.
+
+	- Amazon EC2 Auto Scaling enables you to automatically add or remove Amazon EC2 instances in response to changing application demand.
+	  By automatically scaling your instances in and out as needed, you are able to maintain a greater sense of application availability.
+
+	- There are Two Types of EC2 Auto Scaling - 1 > Dynamic SCaling
+						    2 > Predictive Scaling
