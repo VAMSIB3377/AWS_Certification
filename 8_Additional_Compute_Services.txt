@@ -1,0 +1,59 @@
+8_Additional_Compute_Services
+
+- Serveless Computing
+
+	- Here The Term "Serverless" means that your code runs on serves, but you do not need to provision or manage these servers.
+
+- AWS Lamba
+
+	- AWS Lambda is a service that lets you run code without needing to provision or manage servers.
+	- While using AWS Lambda, you pay only for the compute time that you consume.
+	- Here's How AWS Lambda works
+		- Upload Code to Lambda
+		- Set Code to trigger from an event source
+		- Code runs only when triggered
+		- Pay only for the compute time you use
+
+
+- Containers
+
+	Containers provide you with a standard way to package your application's code and dependencies into a single object.	
+
+
+- Amazon Elastic Container Service (Amazon ECS)
+
+	- Amazon Elastic Container Service is a Highly scalable, high-performance container management system that enables 
+	  you to run scale containerized applications on AWS.
+	- ECS Supports Docker containers where Docker is a software platform that enables you to build, test, and deploy applicatioons quickly.
+
+- Amazon Elastic Kubernates Service (Amazon EKS)
+
+	- Amazon Elastic Kubernetes Service (Amazon EKS) is a fully managed service that you can use to run Kubernetes on AWS.
+	- Kubernates is a open-source software that enables you to deploy and manage containerized appplications at scale.
+
+- AWS Fargate
+
+	- AWS Fargate is a serverless compute engine for containers. It works with both Amazon ECS and Amazon EKS.
+	- When using AWS Fargate, you do not need to provision or manage servers. AWS Fargate manages your server infrastructure for you.
+
+
+
+When to use What
+
+Amazon EC2
+	- Host Traditional Applications
+	- Full Access to the OS
+
+AWS Lambda
+	- Host short running functions
+	- Service-oriented applications
+	- Event driven applications
+	- No provisioning or managing servers
+
+- Run Docker conatiner-based workloads on AWS you can use Amazon EKS or ECS
+
+- AWS Fargate managed for you
+
+
+
+
