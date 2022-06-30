@@ -1,0 +1,16 @@
+6_Elastic_Load_Balancing
+
+
+- Elastic Load Balancing is the AWS service that automatically distributes incoming application traffic across multiple resources, such as Amazon EC2 instances. 
+
+- It will Properly Distribute the traffic in following ways - 1 > High Performance
+							      2 > Cost-efficient
+							      3 > Highly Available 
+							      4 > Automatically Scalable
+
+
+- It is a Regional Construct
+
+- It acts as Single point of contact for all incoming webtraffic to your Auto Scaling Group.
+
+- Then the requests spread across multiple resources that will handle them.
