@@ -1,0 +1,38 @@
+3_EC2_Types
+
+
+--> Each Amazon EC2 instance type is grouped under an instance family
+
+--> Different Amazon EC2 instance families -  1 > General Purpose
+					     2 > Compute Optimized
+					     3 > Memory Optimized
+					     4 > Accelerated Computing
+					     5 > Storage Optimized
+ 
+1 > General purpose 
+
+	--> Balanced Resources
+	--> Diverse Workloads
+	--> Web Servers
+	--> Code Repositories
+
+2 > Compute Optimized
+
+	--> Compute intensive Tasks
+	--> Gaming Servers
+	--> High Performance Computing
+	--> Scientific Modeling
+
+3 > Memory Optimized 
+ 	--> Memory Intensive Tasks
+
+4 > Accelerated Computing
+
+	--> Floating Point Number Calculations
+	--> Graphics Processing
+	--> Data Pattern Matching
+	--> Utilize Hardware Accelerators
+
+5 > Storage Optimized 
+ 
+	--> High Performance for locally stored data
