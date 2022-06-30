@@ -1,1 +1,12 @@
-2_Amazon_Elastic_Compute_Cloud
+2_Amazon_Elastic_Compute_Cloud ( EC2 )
+
+
+instance - A Server Running Our Application is called instance
+
+--> EC2 is Highly Flexible, Const-Effective and Quick When compared to you running own servers on premises
+
+--> In EC2 you only pay for what you use, in in EC2 you'll only for the instances which are running, not stopped, not terminated.
+
+--> EC2 runs on top of physical host machines managad by AWS using virtualization Technology.
+
+--> EC2 instances are alos resizable, which is vertical-scaling.
