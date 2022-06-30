@@ -1,0 +1,13 @@
+1_Introduction
+
+
+--> Cloud Computing - Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing.
+                - Instead of buying, owning, and maintaining physical data centers
+		  and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like AWS.
+
+
+--> Other Name of On-Premises Deployment -- Private Cloud Deployment.
+
+--> On-premises Deployment - On-premise deployment is when data is stored on your own servers, and you install and manage the software.
+
+--> This Pay-as-You-go Pricing model will be very useful to the custometrs as they pay for what they use and they do not pay for what they do not use.
