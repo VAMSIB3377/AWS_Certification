@@ -1,0 +1,16 @@
+9_Networking_Introduction
+
+
+Subnet - A subnet is a range of IP Addresses in your VPC. You can attach AWS resources, such as EC2 instances and RDS DB insstances, to subnets.
+       - Subnets are of 2 Types - 1> Public Subnet 
+				- 2> Private Subnet
+
+
+1> Public Subnet 
+
+	- A Public subnet is a subnet that's associated with a route table that has a route to an Internet Gateway.
+
+2> Private Subnet
+
+	- Instances in the private subnet are backend servers that don't accept incoming traffic from the Internet and therefore do not have public IP Addresses.
+	- But They can send the requests through NAT Gateway.
