@@ -1,0 +1,35 @@
+10_Connectivity_to_AWS
+
+
+Virtual Private Cloud (VPC)
+
+	-A networking service that you can use to establish boundaries around your AWS resources is Amazon Virtual Private Cloud (Amazon VPC).
+	- It will allow you to define your private IP range for your AWS Resources.
+	- and Replace thing like EC2 instances, ELB's inside of your VPC
+	- Subents are chunks of IP Addresses in your VPC that will you allow to group resources together.
+	- One VPC can multiple gateways attached for multiple resources.
+
+
+
+Gateways
+
+
+Internet Gateway
+
+	- An internet gateway is a connection between a VPC and the internet.
+	- To allow public traffic from the internet to access your VPC, you attach an internet gateway to the VPC.
+	- Without an internet gateway, no one can access the resources within your VPC.
+
+
+Virtual Private Gateway
+
+	- To access private resources in a VPC, you can use a Virtual Private Gateway.
+	-  A virtual private gateway allows traffic into the VPC only if it is coming from an approved network.
+
+
+AWS Direct Connect
+
+	- AWS Direct Connect is a service that enables you to establish a dedicated private connection between your data center and a VPC.  
+	- The private connection that AWS Direct Connect provides helps you to reduce network costs and increase the amount of bandwidth that can travel through your network.
+
+
