@@ -1,0 +1,15 @@
+12_Global_Networking
+
+
+Domain Name System
+
+	- DNS Resolution is the process of traslating a domain name to an IP address.
+
+
+Amazon Route 53
+
+	- Amazon Route 53 is a DNS web service. It gives developers and businesses a reliable way to route end users to internet applications hosted in AWS. 
+	- Amazon Route 53 connects user requests to infrastructure running in AWS (such as Amazon EC2 instances and load balancers).
+	  It can route users to infrastructure outside of AWS.
+	- Another feature of Route 53 is the ability to manage the DNS records for domain names.
+	
