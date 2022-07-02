@@ -1,0 +1,72 @@
+14_Simple_Storage_Service_(S3)
+
+- Store Data as Objects
+
+- Store Objects in buckets
+
+- Upload a maximum object size of 5 TB
+
+- Version Objects
+
+- Create multiple buckets
+  
+- When you upload a file to Amazon S3, you can set permissions to control visibility and access to it.
+
+- You can also use the Amazon S3 versioning feature to track changes to your objects over time.
+
+
+Object Storage
+
+	- In object storage, each object consists of data, metadata, and a key.
+	- The data might be an image, video, text document, or any other type of file.
+	- Metadata contains information about what the data is, how it is used, the object size, and so on.
+	- An object’s key is its unique identifier.
+
+
+
+Amazon S3 Storage Classes
+
+	- By Using Amazon S3 You Pay for what you use.
+	- You can choose from a range of storage classes to select a fit for your business and cost needs.
+
+	- S3 Standard
+
+		- Designed for frequently accessed data
+		- Stores data in a minimum of three Availability Zones
+
+	- S3 Standard-Infrequent Access (S3 Standard-IA)
+
+		- Ideal for frequently accessed data
+		- Similar to S3 Standard but has a lower storage price and higher retrieval price.
+		- Stores data in a minimum of three Availability Zones
+
+	- S3 One Zone-Infrequent Access (S3 One Zone-AI)
+
+		- Stores Data in a Single availability Zone
+		- Has a lower Storage price than S3 Standard-IA
+		- You want to save costs on storage
+		- You can easily reproduce your data in the event of an Availability Zone Failure
+
+	- S3 Intelligent-Tiering
+
+		- Ideal for data With unknown or changing access patterns.
+		- Requires a small monthly monitoring and automation fee per object
+
+	- S3 Glacier
+
+		- Low-cost storage designed for data archiving
+		- Able to retrieve objects within few minutes to hours
+
+	- S3 Glacier Deep Archive
+
+		- Lowest-cost object storage class ideal for archiving
+		- Able to retrieve objects within 12 hours.
+
+
+
+
+
+
+
+
+
