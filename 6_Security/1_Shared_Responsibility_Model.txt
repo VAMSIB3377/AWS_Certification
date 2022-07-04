@@ -1,0 +1,14 @@
+1_Shared_Responsibility_Model
+
+
+The shared responsibility model divides into customer responsibilities (commonly referred to as “security in the cloud”) 
+and AWS responsibilities (commonly referred to as “security of the cloud”).
+
+	- Customers are responsible for the security of everything that they create and put in the AWS Cloud.
+	- Customers are Responsible for Customer Data, Platform, Applications, Identity and Access Management,
+	  Operating System, Network and Firewall Configuration, Client-side Data Encryption, Server-Side Encryption, Networking Traffic Protection.
+
+	- AWS is responsible for security of the cloud.
+	- AWS is Responsible for Software, Compute, Storage, Database, Networking, HARDWARE/AWS Global Infrastructure,
+	  Regions, Availability Zones, EDGE Locations.
+
