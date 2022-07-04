@@ -12,3 +12,4 @@ and AWS responsibilities (commonly referred to as “security of the cloud”).
 	- AWS is Responsible for Software, Compute, Storage, Database, Networking, HARDWARE/AWS Global Infrastructure,
 	  Regions, Availability Zones, EDGE Locations.
 
+
