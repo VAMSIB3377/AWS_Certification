@@ -1,15 +1,16 @@
 4_EC2_Pricing
 
 
-EC2 Purchage Options
+EC2 Purchase Options
 
-1 > On - Demand  -- Only Pay For The Duration That Your instance Runs for.
+1 > On-Demand  		-- Only Pay For The Duration That Your instance Runs for.
 
-2 > Savings Plan -- Ideal for workloads that involve a consistent amount of compute usage over a 1-year or 3-year term. It Offers Low Price on EC2 Usage. The Payment will be measure in Dollars Plan For 1 or 3 Year term Plan.
+2 > Savings Plan 	-- Ideal for workloads that involve a consistent amount of compute usage over a 1-year or 3-year term. It Offers Low Price on EC2 Usage.
+ 			   The Payment will be measured in Dollars Plan For 1 or 3 Year term Plan.
 
-3 > Reserved Instances -- Suitable for steady stated Workloads and one's with predictable usage and offer you 75 percent discount
-			  for on demand pricing
+3 > Reserved Instances 	-- Suitable for steady stated Workloads and one's with predictable usage and offer you 75 percent discount
+			   for on-demand pricing
 
-4 > Spot Instances -- Ideal for workloads with flexible start and end times or that withstand interruptions. Offer you cost savings upto 90% off of On-Demand prices.
+4 > Spot Instances 	-- Ideal for workloads with flexible start and end times or that withstand interruptions. Offer you cost savings upto 90% off of On-Demand prices.
 		   
-5 > Dedicated Hosts -- Physical Hosts Dedicated for your use for EC2. These are usually for certain Complaints and Requirements.
+5 > Dedicated Hosts	-- Physical Hosts Dedicated for your use for EC2. These are usually for certain Complaints and Requirements.

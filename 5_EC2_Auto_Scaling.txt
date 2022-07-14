@@ -10,5 +10,5 @@ To Make the Process of Scaling Automatic We Have EC2 Auto Scaling.
 	- Amazon EC2 Auto Scaling enables you to automatically add or remove Amazon EC2 instances in response to changing application demand.
 	  By automatically scaling your instances in and out as needed, you are able to maintain a greater sense of application availability.
 
-	- There are Two Types of EC2 Auto Scaling - 1 > Dynamic SCaling
+	- There are Two Types of EC2 Auto Scaling - 1 > Dynamic Scaling
 						    2 > Predictive Scaling

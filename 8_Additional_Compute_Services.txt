@@ -2,7 +2,7 @@
 
 - Serveless Computing
 
-	- Here The Term "Serverless" means that your code runs on serves, but you do not need to provision or manage these servers.
+	- Here The Term "Serverless" means that your code runs on servers, but you do not need to provision or manage these servers.
 
 - AWS Lamba
 
