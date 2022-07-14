@@ -1,0 +1,19 @@
+1_Amazon_CloudWatch
+
+	- Amazon CloudWatch is a web service that enables you to monitor and manage various metrics and configure alarm actions based on data from those metrics.
+
+	- CloudWatch uses metrics to represent the data points for your resources.
+
+	- AWS services send metrics to CloudWatch.
+
+	- CloudWatch then uses these metrics to create graphs automatically that show how performance has changed over time. 
+
+
+CloudWatch alarms
+
+	- With CloudWatch, you can create alarms that automatically perform actions if the value of your metric has gone above or below a predefined threshold.
+
+
+CloudWatch Dashboard
+
+	- The CloudWatch dashboard feature enables you to access all the metrics for your resources from a single location.
