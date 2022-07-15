@@ -1,0 +1,16 @@
+3_AWS_Trusted_Advisor
+
+
+	- The Five Pillars of Trusted_Advisor are -- 1> Cost Optimization
+						     2> Performance
+						     3> Security
+						     4> Fault Tolerance
+						     5> Service Limits
+
+
+
+	- AWS Trusted Advisor is a web service that inspects your AWS environment and provides real-time recommendations in accordance with AWS best practices.
+
+	- Trusted Advisor compares its findings to AWS best practices in five categories: cost optimization, performance, security, fault tolerance, and service limits.
+
+	- For the checks in each category, Trusted Advisor offers a list of recommended actions and additional resources to learn more about AWS best practices. 
