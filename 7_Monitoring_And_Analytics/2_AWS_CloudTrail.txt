@@ -1,0 +1,22 @@
+2_AWS_CloudTrail
+
+
+	- AWS CloudTrail records API calls for your account.
+
+	- The recorded information includes the identity of the API caller, the time of the API call, the source IP address of the API caller, and more.
+
+	- Recall that you can use API calls to provision, manage, and configure your AWS resources.
+
+	- With CloudTrail, you can view a complete history of user activity and API calls for your applications and resources.
+
+	- Events are typically updated in CloudTrail within 15 minutes after an API call.
+
+	- You can filter events by specifying the time and date that an API call occurred, the user who requested the action, the type of resource that was involved in the API call, and more.
+
+
+
+CloudTrail Insights
+
+	- Within CloudTrail, you can also enable CloudTrail Insights.
+
+	- This optional feature allows CloudTrail to automatically detect unusual API activities in your AWS account. 
